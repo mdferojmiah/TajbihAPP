@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tajbih</string>
+    <string name="Screen">0</string>
+    <string name="AddButton">ADD</string>
+    <string name="SubButton">SUB</string>
+    <string name="ResetButton">RESET</string>
+</resources>
